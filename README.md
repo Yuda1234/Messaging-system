@@ -1,5 +1,5 @@
-Messaging System
-Overview
+Messaging System:
+
 This is a simple REST API backend system for handling messages between users. 
 Each message includes information about the sender, receiver, message content, subject, and creation date.
 The API provides endpoints for writing messages, getting all messages for a specific user, getting all unread messages for a specific user, reading a single message, and deleting messages.
